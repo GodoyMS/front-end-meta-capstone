@@ -1,3 +1,11 @@
+<p><strong>The form page is found when "reserve a table" button is clicked
+</strong></p>
+<img src="/ScreenShots/1.PNG"/>
+<img style="margin-left:auto;margin-right:auto" src="/ScreenShots/2.PNG"/>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
