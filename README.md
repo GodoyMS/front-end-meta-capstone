@@ -1,3 +1,4 @@
+<h1>Final project Front end Capstone Meta</h1>
 <p>For this project I opted to use tailwind css, all you need to do is clone the repo to a folder, run this command: npm install and then npm run start. Thank you visitor! :)</p>
 <p><strong>The form page is found when "reserve a table" button is clicked
 </strong></p>
